@@ -1,0 +1,22 @@
+--DROP VIEW informacje_o_locie;
+--drop view jakie_loty_z_lotniska;
+
+
+
+--DROP TRIGGER samolot_trig ON samolot;
+--DROP TRIGGER rejestracja_pasazera ON pasazer;
+--DROP TRIGGER zmiana_danych_pasazer ON pasazer;
+--DROP TRIGGER zmiana_danych_samolot ON samolot;
+
+--DROP FUNCTION sprawdz_samolot();
+--DROP FUNCTION sprawdz_rejestracje_pasazera();
+
+
+
+
+-- DROP TABLE bagaz;
+-- DROP TABLE pasazer_bilet;
+-- DROP TABLE bilet_na_lot;
+-- DROP TABLE lotnisko;
+-- DROP TABLE pasazer;
+-- DROP TABLE samolot;
